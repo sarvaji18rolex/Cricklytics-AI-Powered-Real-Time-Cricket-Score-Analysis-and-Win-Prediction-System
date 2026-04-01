@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # CricAPI - Free tier available at cricapi.com
 # Using cricbuzz-cricket rapidapi free tier as backup
-API_KEY = "411f5d22-dc1a-4ac8-97a3-9ef213ea9a35"
+API_KEY = "PUT_YOUR_OWN_API"
 
 BASE_URL = "https://api.cricapi.com/v1"
 
