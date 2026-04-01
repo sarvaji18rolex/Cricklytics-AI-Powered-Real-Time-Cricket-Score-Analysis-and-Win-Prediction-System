@@ -155,6 +155,9 @@ API_KEY = "YOUR_API_KEY"
 
 ---
 
+
+
+
 ## 👨‍💻 Author
 Sarvaji M
 
@@ -162,3 +165,6 @@ Sarvaji M
 
 ## 📜 License
 This project is for academic and educational purposes.
+
+
+<img width="1365" height="767" alt="Screenshot 2026-04-01 132631" src="https://github.com/user-attachments/assets/43dcab8f-a1fc-455a-a6bd-792d7cb07eac" />
