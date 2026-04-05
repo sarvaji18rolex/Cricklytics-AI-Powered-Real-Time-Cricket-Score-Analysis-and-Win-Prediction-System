@@ -119,7 +119,7 @@ http://localhost:5500
 - Replace in `app.py`:
 
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "your_own_api_key"
 
 
 ---
